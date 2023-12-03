@@ -1,3 +1,6 @@
+<img width="1276" alt="Screen Shot 2023-12-03 at 10 03 10 PM" src="https://github.com/AYoussef00/Car-Counter-Detection/assets/33284639/0acfe9a7-5e5a-4c1b-951a-f612d20ba9fd">
+
+
 Overview: Car Detection and Counting Software
 
 Harnessing the Power of Computer Vision and Machine Learning
@@ -52,7 +55,6 @@ Elevate your projects with our Car Detection and Counting Software. Download the
 
 Transforming Traffic Analysis, One Frame at a Time.
 
-<img width="1276" alt="Screen Shot 2023-12-03 at 10 03 10 PM" src="https://github.com/AYoussef00/Car-Counter-Detection/assets/33284639/0acfe9a7-5e5a-4c1b-951a-f612d20ba9fd">
 
 
 
